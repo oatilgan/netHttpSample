@@ -1,3 +1,5 @@
 # netHttpSample
 
-gets token and gets article size by number
+net/http example.
+- gets token
+- gets article size by number
